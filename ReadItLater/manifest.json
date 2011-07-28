@@ -1,0 +1,19 @@
+﻿{
+"name": "Read It Later",
+"description": "Go to To Read It Later unread items",
+"version": "1.0",
+"icons": {
+"128": "128.png",
+"16": "16.png"
+},
+"app": {
+"urls": [
+"https://readitlaterlist.com/unread"
+],
+"launch": {
+"web_url": "https://readitlaterlist.com/unread"
+}
+},
+"permissions": [
+]
+}
